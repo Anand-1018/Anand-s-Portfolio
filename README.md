@@ -42,14 +42,13 @@ portfolio/
 ---
 
 ## 📸 Screenshots
-(Add screenshots here after uploading images)
+
+<img width="1788" height="1091" alt="Screenshot 2026-04-01 020400" src="https://github.com/user-attachments/assets/1abbb4bf-bfdd-458b-aa50-b04c6f3e0cfa" />
+<img width="1802" height="1077" alt="Screenshot 2026-04-01 020418" src="https://github.com/user-attachments/assets/2af419f0-022b-4f00-8879-b15c345ec2b0" />
+
 
 ---
 
-## 🌍 Live Demo
-(Add your deployed link here, e.g. GitHub Pages / Netlify)
-
----
 
 ## 📊 Highlights
 - Solved 300+ problems
@@ -60,7 +59,7 @@ portfolio/
 
 ## 📬 Contact
 - Email: pandeyanand260@gmail.com
-- LinkedIn: (Add your link)
+- LinkedIn: linkedin.com/in/anandpandey44
 - GitHub: https://github.com/your-username
 
 ---
